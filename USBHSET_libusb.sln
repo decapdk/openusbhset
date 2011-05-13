@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "USBHSET_libusb-1.0", "USBHSET_libusb\USBHSET_libusb.vcxproj", "{6CBF87E9-C167-45CA-8613-9F73525069B1}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "USBHSET_libusb-0.1", "USBHSET_libusb-0.1\USBHSET_libusb-0.1.vcxproj", "{765AC42D-596D-442B-869E-7FE93548324C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CBF87E9-C167-45CA-8613-9F73525069B1}.Debug|Win32.ActiveCfg = Debug|Win32
+		{6CBF87E9-C167-45CA-8613-9F73525069B1}.Debug|Win32.Build.0 = Debug|Win32
+		{6CBF87E9-C167-45CA-8613-9F73525069B1}.Release|Win32.ActiveCfg = Release|Win32
+		{6CBF87E9-C167-45CA-8613-9F73525069B1}.Release|Win32.Build.0 = Release|Win32
+		{765AC42D-596D-442B-869E-7FE93548324C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{765AC42D-596D-442B-869E-7FE93548324C}.Debug|Win32.Build.0 = Debug|Win32
+		{765AC42D-596D-442B-869E-7FE93548324C}.Release|Win32.ActiveCfg = Release|Win32
+		{765AC42D-596D-442B-869E-7FE93548324C}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
