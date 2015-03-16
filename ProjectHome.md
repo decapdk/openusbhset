@@ -1,0 +1,3 @@
+An opensource alternative to USB High Speed Electrical Test program based on libusb-1.0 for Windows and Linux.
+
+The main focus is to bring the ability to perform compliance testing to Linux on embedded platforms. Using official tools from USB.org this is only achievable on Windows platforms until now...
